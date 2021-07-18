@@ -1,0 +1,13 @@
+xcassets:
+  inputs: Restaurants/Resources/Assets.xcassets
+  outputs:
+    templateName: swift5
+    output: Restaurants/Resources/Assets.swift
+
+strings:
+   inputs: Restaurants/Resources/en.lproj/Localizable.strings
+   outputs:
+     templateName: structured-swift5
+     output: Restaurants/Resources/Strings.swift
+     params:
+        enumName: Localizable

@@ -1,0 +1,92 @@
+
+// MARK: - Alerts
+
+"Alert.Ok.buttonTitle" = "Ok";
+
+"Alert.SomethingWentWrong.title" = "Something went wrong";
+"Alert.SomethingWentWrong.subtitle" = "Please, try again later";
+
+"Alert.Unauthorized.title" = "Your session expired";
+"Alert.Unauthorized.subtitle" = "Please, log in again";
+
+// MARK: - Placeholder
+
+"Placeholder.description" = "Something went wrong,\ntry again later";
+"Placeholder.Reload.buttonTitle" = "Reload";
+
+// MARK: - Initial
+
+"Initial.title" = "Welcome!\nPlease, sign in or register";
+"Initial.Login.buttonTitle" = "Login";
+"Initial.Register.buttonTitle" = "Register";
+
+// MARK: - Auth
+
+"Auth.Login.title" = "Login";
+"Auth.Register.title" = "Register";
+
+"Auth.Login.placeholder" = "Login";
+"Auth.Password.placeholder" = "Password";
+
+"Auth.roleDescription" = "I'm the owner of the restaurant";
+
+"Auth.Continue.buttonTitle" = "Continue";
+
+"Auth.Error.EmptyData.title" = "Ooops!";
+"Auth.Error.EmptyData.subtitle" = "It seems, your login or password is empty";
+
+"Auth.Error.Incorrect.title" = "Ooops!";
+"Auth.Error.Incorrect.subtitle" = "It seems, your login or password may not be correct";
+
+// MARK: - Restaurants
+
+"Restaurants.title" = "Restaurants";
+"Restaurants.InfoBubble.unansweredReviews.1" = "You have one unanswered review";
+"Restaurants.InfoBubble.unansweredReviews.many" = "You have %@ unanswered reviews";
+
+"Restaurants.LogOut.buttonTitle" = "Log out";
+
+// MARK: - Restaurant
+
+"Restaurant.LeaveComment.buttonTitle" = "Leave comment";
+
+// MARK: - New Restaurant
+
+"NewRestaurant.title" = "New Restaurant";
+"NewRestaurant.Name.placeholder" = "Enter name of the restaurant";
+"NewRestaurant.AddImage.buttonTitle" = "Upload image";
+"NewRestaurant.ChangeImage.buttonTitle" = "Change image";
+"NewRestaurant.Description.title" = "Enter your description below:";
+
+"NewRestaurant.Error.title" = "Ooops!";
+"NewRestaurant.Error.subtitle" = "All fields should be not empty for saving, including image of the restaurant";
+
+// MARK: - Review
+
+"Review.title" = "Review";
+
+"Review.Error.EmptyText.title" = "Ooops!";
+"Review.Error.EmptyText.subtitle" = "It seems, that you left review text field empty";
+
+// MARK: - Reply
+
+"Reply.title" = "Your reply:";
+
+"Reply.Error.Empty.title" = "Ooops!";
+"Reply.Error.Empty.subtitle" = "You can not save empty reply";
+
+// MARK: - Users
+
+"Users.title" = "Users";
+
+// MARK: - User
+
+"User.title" = "Change user info";
+
+"User.Id.placeholder" = "Id";
+"User.Login.placeholder" = "Login";
+
+"User.SaveError.NoChanges.description" = "No changes to save";
+
+"User.SaveError.EmptyValue.title" = "Empty fields error";
+"User.SaveError.EmptyValue.description" = "User name should not be empty";
